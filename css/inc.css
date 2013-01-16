@@ -1,0 +1,4 @@
+.inc-style:after {
+  background:#0f0;
+  content: "Динамическое подключение CSS"
+}

@@ -1,0 +1,1 @@
+console.log("script 'inc.js' add");
